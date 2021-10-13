@@ -10,6 +10,7 @@ header {
 }
 .container {
   height: calc(100vh - 80px);
+  display: flex;
 }
 .card {
   background-color: rgb(18, 18, 78);
